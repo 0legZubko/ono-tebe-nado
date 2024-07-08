@@ -76,14 +76,14 @@
   color: #fff;
   font-weight: bold;
   position: relative;
-  padding: 165px 50px 0;
+  padding: 150px 50px 0;
   text-transform: uppercase;
   z-index: 2;
 }
 
 .aligned-text {
   display: block;
-  line-height: 115px;
+  line-height: 150px;
   letter-spacing: 0.3em;
 }
 
@@ -99,6 +99,7 @@
 
 .aligned-text_right {
   text-align: right;
+  line-height: 140px;
 }
 .no-letter-spacing {
   letter-spacing: 0;
@@ -111,14 +112,14 @@
   justify-content: space-between;
   align-items: center;
   color: #fff;
-  padding: 147px 50px 62px 78px;
+  padding: 116px 50px 51px 78px;
   z-index: 3;
 }
 .cover__description-text {
   font-weight: 400;
   font-size: 22px;
   line-height: 28px;
-  word-spacing: 20px;
+  word-spacing: 19px;
   text-transform: uppercase;
 }
 
