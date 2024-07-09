@@ -38,7 +38,6 @@
 
 .address {
   display: flex;
-  min-width: 240px;
   font-size: 18px;
   font-style: normal;
   line-height: 24px;
@@ -47,6 +46,8 @@
 
 .address-list {
   list-style: none;
+  max-width: 240px;
+  width: 100%;
 }
 
 .header__address {
@@ -59,7 +60,7 @@
   position: relative;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 130%;
+  background-size: cover;
 }
 
 .overlay {
